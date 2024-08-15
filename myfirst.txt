@@ -1,0 +1,9 @@
+@ echo off
+title My First Batch File
+echo Hello!
+pause
+cls
+echo This is the first line
+echo this is the second line 
+pause
+cls
